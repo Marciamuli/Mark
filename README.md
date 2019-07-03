@@ -25,6 +25,8 @@ Ma quem quer dinheiroam? É dinheiro ou não é? Estamos em ritmo de festamm. Ma
 
 ```
 
-Quando não quero identificar a linguagem s=com a qual etou trabalhando.
+Quando não quero identificar a linguagem com a qual etou trabalhando.
 ```
-
+```javascript
+   var s = "Atribuindo valores a u,a variavel";
+   ```
