@@ -9,3 +9,7 @@ Ma quem quer dinheiroam? É dinheiro ou não é? Estamos em ritmo de festamm. Ma
 ## Trabalhando com Links
 [Google](http://www.google.com.br "Clique e acesse agora!") [Silvio Santos Ipsun](http://silviosantosipsum.com "Silvio Santos Ipsun" )
 
+## Trabalhando com listas Ordenadas
+1. Item 01
+2. Item 02
+3. Item 03
