@@ -29,4 +29,5 @@ Quando não quero identificar a linguagem com a qual etou trabalhando.
 ```
 ```javascript
    var s = "Atribuindo valores a u,a variavel";
+   alert(s);
    ```
