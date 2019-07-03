@@ -21,3 +21,10 @@ Ma quem quer dinheiroam? É dinheiro ou não é? Estamos em ritmo de festamm. Ma
 - Item 02
 + Item 03
 
+## Trabalhando com Bloco de Códigos
+
+```
+
+Quando não quero identificar a linguagem s=com a qual etou trabalhando.
+```
+
