@@ -42,4 +42,12 @@ UC 11              | Dev Web
 UC 12              | PHP
 UC 13              | Android
 
+####################################
 
+Unidades  | Programação 
+----------|-----------------
+ 01       | HTML
+ 02       | C# 
+ 03       | JavaScript 
+ 04       | C++ 
+ 
