@@ -37,5 +37,5 @@ Unidade Curricular | Nome
 	9              | Lógica de Programação 
 	10             | C#
 	11             | Dev Web
-	12			   | PHP
+	12	           | PHP
 	13             | Android
