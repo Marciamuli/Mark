@@ -38,5 +38,8 @@ Unidade Curricular | Nomes
 -------------------|--------------
 UC 09              | Lógica de Programação
 UC 10              | Linguagem C#
+UC 11              | Dev Web
+UC 12              | PHP
+UC 13              | Android
 
 
