@@ -4,6 +4,12 @@
 
 
 
+**Markdown** é uma ferramenta de conversão de text-to-HTML. Com ele é possível você marcar títulos, listas, tabelas, etc.,
+de forma muito mais limpa, legível e precisa, do que se fosse fazer com HTML.
+Ainda não sabe tudo o que é possível fazer com Markdown? Então esse post é pra você! Vem comigo que eu te mostro :)
+
+
+
 # Mark
 Trabalhando com **Markdown**
 
